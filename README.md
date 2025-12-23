@@ -37,15 +37,7 @@ https://github.com/user-attachments/assets/0fde5f69-c467-46d1-a25e-cfefb7afc14e
 * Convert sections into reusable components
 * Improve accessibility (ARIA labels, keyboard navigation)
 * Add animations or transitions between sections
-#HTML
-#CSS
-#Bootstrap
-#BootstrapCarousel
-#FrontendDevelopment
-#WebDevelopment
-#ResponsiveDesign
-#UIUX
-#BeginnerProject
+
 
 
 
